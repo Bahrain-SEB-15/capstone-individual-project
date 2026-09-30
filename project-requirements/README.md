@@ -1,10 +1,10 @@
-# ![Flask/React CRUD App Project - Project Requirements](./assets/hero.png)
+# Capstone Project - Project Requirements
 
 ## Overview
 
 For this project, you'll work across the back-end and the front-end to build a full-stack project.
 
-You'll build an API on the back-end using Flask secured with JWTs. That API will interact with a PostgreSQL database to carry out full CRUD on resources.
+You'll build an API on the back-end using FastAPI or Express secured with JWTs. That API will interact with a PostgreSQL or MongoDB database to carry out full CRUD on resources.
 
 On the front-end, you'll construct a React application that uses AJAX to communicate with the back-end app.
 
@@ -20,12 +20,12 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your app must fulfill the below requirements.
 
-- The back-end application is built with Flask.
+- The back-end application is built with Express/Node, or FastAPI.
 - The front-end application is built with React.
-- PostgreSQL is used as the database management system.
+- MongoDB or PostgreSQL is used as the database management system.
 - The back-end and front-end applications implement JWT token-based authentication to sign up, sign in, and sign out users.
 - Authorization is implemented across the front-end and back-end. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
-- The project has at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
+- The project has at least two data entities in addition to the User model. At least one entity must have a relationship with the User model.
 - The project has full CRUD functionality on both the back-end and front-end.
 - The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.
 - The project is deployed online so that the rest of the world can use it.
@@ -60,7 +60,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
 
 - You are shown as the only contributor to the project on GitHub.
-- The GitHub repositories used for the project must be named appropriately. For example, names like book-binder-back-end or wellness-tracker-front-end are appropriate, whereas ga-project or flask-react-project are not. The repos must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure they are public.***
+- The GitHub repositories used for the project must be named appropriately. For example, names like book-binder-back-end or wellness-tracker-front-end are appropriate, whereas ga-project or FastAPI-react-project are not. The repos must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure they are public.***
 - **Your repos should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one.
 - Commit messages should be descriptive of the work done in that commit.
 
