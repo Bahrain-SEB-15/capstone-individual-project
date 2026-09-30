@@ -1,18 +1,18 @@
-# ![Fast/React CRUD App Project](./assets/hero.png)
+# Capstone Project
 
 ## About
 
 ***Instructors should see the Instructor Guide for more configuration details.***
 
-In this project, students will gain experience working across the full-stack, building both front-end and back-end applications. They will create an authenticated back-end API allowing for full CRUD utilizing Fast and PostgreSQL. They'll also construct a front-end React application capable of interacting with that API through AJAX requests.
+In this project, students will gain experience working across the full-stack, building both front-end and back-end applications. They will create an authenticated back-end API allowing for full CRUD utilizing FastAPI/Express and MongoDB/PostgreSQL. They'll also construct a front-end React application capable of interacting with that API through AJAX requests.
 
 ## Prerequisites
 
 This project requires an understanding of:
 
-- Constructing APIs using Fast.
-- Securing Fast APIs by utilizing JWTs.
-- Interacting with a PostgreSQL database from a Fast application to carry out full CRUD on related resources.
+- Constructing APIs using FastAPI/Express.
+- Securing APIs by utilizing JWTs.
+- Interacting with a MongoDB/PostgreSQL database from a FastAPI/Express application to carry out full CRUD on related resources.
 - Constructing React applications capable of interacting with APIs that require JWT authorization to carry out full CRUD on related resources.
 
 ## Content
