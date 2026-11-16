@@ -1,5 +1,4 @@
-# ![Flask/React CRUD App Project - Project Planning Deliverable](./assets/hero.png)
-
+# FastAPI/React CRUD App Project - Project Planning Deliverable
 ## Introduction
 
 Planning is vital to build anything more than the most trivial of applications; therefore, this is where you will begin your journey with this project. You shouldn't write any code or set up a GitHub repo for your project until an instructor approves your planning materials.
