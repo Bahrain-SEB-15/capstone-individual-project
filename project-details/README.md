@@ -1,4 +1,4 @@
-# ![Flask/React CRUD App Project - Project Details](./assets/hero.png)
+# FastAPI/React CRUD App Project - Project Details
 
 ## Notes and guidance
 
