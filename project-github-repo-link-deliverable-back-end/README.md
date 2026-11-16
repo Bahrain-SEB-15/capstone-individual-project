@@ -1,5 +1,4 @@
-# ![Flask/React CRUD App Project - Individual Project GitHub Repo Link Deliverable](./assets/hero.png)
-
+# FastAPI/React CRUD App Project - Individual Project GitHub Repo Link Deliverable
 ## Introduction
 
 After your project proposal has been approved, you'll need to set up a GitHub repo for the back-end of your project.
@@ -8,4 +7,4 @@ After your project proposal has been approved, you'll need to set up a GitHub re
 
 ## Submitting your GitHub repo link
 
-Submit a link to the ***public*** GitHub repo that you are using for the back-end of your Flask/React CRUD App Project.
+Submit a link to the ***public*** GitHub repo that you are using for the back-end of your FastAPI/React CRUD App Project.
